@@ -1,0 +1,29 @@
+#+TITLE: Font.Rogue
+
+Simple font atlas generator written in C# and powered by [[https://github.com/MonoGame/MonoGame][MonoGame]].
+
+* About the project
+
+** Built with
+- [[https://github.com/MonoGame/MonoGame][Monogame]]
+- [[https://github.com/rds1983/FontStashSharp][FontStashSharp]]
+
+* Table of contents :TOC:
+- [[#about-the-project][About the project]]
+  - [[#built-with][Built with]]
+- [[#getting-started][Getting started]]
+- [[#usage][Usage]]
+- [[#license][License]]
+- [[#contact][Contact]]
+
+* Getting started
+TBU
+
+* Usage
+TBU
+
+* License
+This project is distributed under =BSD Zero= license, for more information check =LICENSE= file.
+
+* Contact
+TBU
